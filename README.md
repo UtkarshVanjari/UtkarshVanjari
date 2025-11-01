@@ -1,12 +1,7 @@
-- 👋 Hi, I’m @UtkarshVanjari
-- 👀 I’m interested in cloud 
-- 🌱 I’m currently learning cloud Technology & Information Security
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
-<!---
-UtkarshVanjari/UtkarshVanjari is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Hi, I’m @UtkarshVanjari
+☁️ Passionate about Cloud Computing & Cyber Security
+🌱 Currently learning Cloud Technology & Information Security
+💡 Exploring AWS, DevOps, and Secure Cloud Architecture
+💞️ Looking to collaborate on Cloud, DevOps, or Security-based projects
+📫 Reach me at utkarshvanjari26@gmail.com
+⚡ Fun fact: I can secure your system faster than you can say “breach detected” 🚨
