@@ -53,9 +53,9 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 <table>
   <tr>
     <td width="50%">
-      <h3 align="center">🔐 Global Rock Paper Scissors – Multiplayer Game</h3>
+      <h3 align="center">🔐 Quick-duel-Game – Multiplayer Game</h3>
       <p align="center">
-        <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <a href="https://github.com/UtkarshVanjari/Quick-duel-Game-" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
@@ -67,30 +67,28 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 
   <tr>
     <td width="50%">
-      <h3 align="center">☁ Secure Cloud Deployment Pipeline (EKS + ArgoCD)</h3>
+      <h3 align="center">☁ Harmony-App-Devops (EKS + ArgoCD)</h3>
       <p align="center">
-        <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <a href="https://github.com/UtkarshVanjari/Harmony-App-Devops" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
       <p>
-        Built a *secure CI/CD pipeline* using Jenkins, SonarQube, Trivy, ArgoCD, and AWS EKS.  
-        Includes vulnerability scanning, policy enforcement, GitOps automation, and container security.
+        Deployed a scalable music streaming website using AWS EKS, Docker and NGINX Ingress. Configured TLS automation with cert-manager. Let’s Encrypt and set up CI/CD pipelines with GitHub Actions for continuous deployment. Utilized DuckDNS for dynamic DNS mapping and AWS NLB for secure load balancing.
       </p>
     </td>
   </tr>
 
   <tr>
     <td width="50%">
-      <h3 align="center">📚 Virtual Cloud Library</h3>
+      <h3 align="center">📚 Weather-Forecasting-App</h3>
       <p align="center">
-        <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
       <p>
-        Created a cloud-powered library platform enabling secure file access, user authentication,  
-        and scalable storage. Built with AWS, Python, and modern web technologies.
+        This project demonstrates how to build a desktop weather application with a GUI, using Python. It fetches live weather data from a web API and displays it in a user-friendly interface. Ideal for practising GUI development, API integration, and Python event-driven programming.
       </p>
     </td>
 
@@ -98,7 +96,7 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
     <td width="50%">
       <h3 align="center">✈ Sky Jet – Pygame 2D Runner Game</h3>
       <p align="center">
-        <a href="YOUR_REPO_LINK_HERE" target="_blank">
+        <a href="https://github.com/UtkarshVanjari/Sky-Jet-2D-Game---python" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
