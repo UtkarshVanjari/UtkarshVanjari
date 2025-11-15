@@ -122,8 +122,8 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 ## 🔗 Let's Connect  
 
 <div align="center">
-  <a href="mailto:vanjariutkarsh26work@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/email-%23D14836.svg?&style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+  <a href="mailto:vanjariutkarsh26work@gmail.com">
+    <img src="https://img.shields.io/badge/Contact%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
   </a>
   <br><br>
   <a href="https://www.linkedin.com/in/utkarsh-vanjari-886621250/" target="_blank">
