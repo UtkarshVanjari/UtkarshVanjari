@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Utkarsh Vanjari  
 
-## Cybersecurity Intern | Cloud Technologies & Information Security | Future Security Architect  
+## Cybersecurity Intern | Cloud Technologies & Information Security | Future Security Architect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-vanjari&color=blue&style=flat-square)
 
@@ -24,18 +24,19 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 
 ## 🛠 Tech Stack  
 
-<p align="center">
+## Tech Stack  
 
+<p align="center">
   <!-- OS & Scripting -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" height="50" alt="Linux"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" height="50" alt="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" height="50" alt="Python"/>
 
   <!-- Security Tools -->
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50" alt="Nmap"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" height="50" alt="Kali Linux"/>
   <img src="https://img.icons8.com/color/48/metasploit.png" width="50" height="50" alt="Metasploit"/>
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" height="50" alt="Nmap"/>
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" height="50" alt="BurpSuite"/>
-  <img src="https://www.kali.org/tools/wireshark/images/wireshark-logo.svg" width="50" height="50" alt="Wireshark"/>
 
   <!-- Cloud & Automation -->
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" height="50" alt="AWS"/>
@@ -44,7 +45,30 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" height="50" alt="Terraform"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" height="50" alt="Ansible"/>
 
+   <!-- IaC / Orchestration -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/terraform/terraform-original.svg" width="40" height="40" alt="Terraform" title="Terraform"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="40" height="40" alt="Jenkins" title="Jenkins"/>
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="40" height="40" alt="Argo CD" title="Argo CD"/>
+
+  <!-- Cloud Providers -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="40" height="40" alt="Azure" title="Azure"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="40" height="40" alt="GCP" title="GCP"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="40" height="40" alt="Oracle Cloud" title="Oracle Cloud"/>
+
+  <!-- Containers & OS -->
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
+
+  <!-- Security / SIEM / IDS -->
+  <!-- Splunk badge (safe fallback) -->
+  <img src="https://img.shields.io/badge/Splunk-%23000000?style=flat-square&logo=splunk&logoColor=white" width="92" height="28" alt="Splunk" title="Splunk"/>
+  
+  <!-- Snort / Nessus: shields fallback badges (logos not always available as public SVGs) -->
+  <img src="https://img.shields.io/badge/Snort-%2300A1E4?style=flat-square&logo=snort&logoColor=white" width="92" height="28" alt="Snort" title="Snort (IDS)"/>
+  <img src="https://img.shields.io/badge/Nessus-%23CC0000?style=flat-square&logo=nessus&logoColor=white" width="92" height="28" alt="Nessus" title="Nessus (Vulnerability Scanner)"/>
 </p>
+
+---
 
 ---
 
