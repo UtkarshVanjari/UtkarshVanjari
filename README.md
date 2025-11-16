@@ -57,7 +57,7 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 
   <!-- Containers & OS -->
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="40" height="40" alt="Docker" title="Docker"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" width="40" height="40" alt="Linux" title="Linux"/>
+
 
   <!-- Security / SIEM / IDS -->
   <!-- Splunk badge (safe fallback) -->
@@ -70,7 +70,6 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 
 ---
 
----
 
 ## ⭐ Featured Projects  
 
