@@ -56,17 +56,17 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 <tr>
 <td width="50%">
 
-<h3 align="center">🔐 Elastic Stack (SIEM) – Log Monitoring Project</h3>
+<h3 align="center">🔐 Elastic Stack (SIEM) – Log Monitoring</h3>
 
 <p align="center">
-<a href="https://github.com/UtkarshVanjari/Elastic-Stack-SIEM-Project" target="_blank">
+<a href="https://github.com/UtkarshVanjari/Elastic-Stack-SIEM-Project">
 <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
 </a>
 </p>
 
 <p>
-Implemented a SIEM-style log monitoring setup using Elasticsearch, Kibana, and Filebeat.
-Focused on SSH authentication logs, event analysis, and SOC-style visibility.
+Built a SIEM-style log monitoring system using Elasticsearch, Kibana & Filebeat.
+Focused on SSH authentication logs and SOC-style analysis.
 </p>
 
 </td>
@@ -74,57 +74,73 @@ Focused on SSH authentication logs, event analysis, and SOC-style visibility.
 
 <tr>
 <td width="50%">
+
 <h3 align="center">🔐 Quick-duel-Game – Multiplayer Game</h3>
+
 <p align="center">
-<a href="https://github.com/UtkarshVanjari/Quick-duel-Game-" target="_blank">
+<a href="https://github.com/UtkarshVanjari/Quick-duel-Game-">
 <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
 </a>
 </p>
+
 <p>
-Developed a real-time multiplayer Rock Paper Scissors game using Flask, Python, and Socket.IO.
+Real-time multiplayer Rock Paper Scissors game using Flask, Python & Socket.IO.
 </p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
+
 <h3 align="center">☁ Harmony-App-Devops (EKS + ArgoCD)</h3>
+
 <p align="center">
-<a href="https://github.com/UtkarshVanjari/Harmony-App-Devops" target="_blank">
+<a href="https://github.com/UtkarshVanjari/Harmony-App-Devops">
 <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
 </a>
 </p>
+
 <p>
-Deployed a scalable application on AWS EKS with CI/CD and GitOps using ArgoCD.
+AWS EKS based application with CI/CD and GitOps using ArgoCD.
 </p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
+
 <h3 align="center">📚 Weather-Forecasting-App</h3>
+
 <p align="center">
-<a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python" target="_blank">
+<a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python">
 <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
 </a>
 </p>
+
 <p>
-Python GUI-based weather app using live API integration.
+Python GUI weather application using live API integration.
 </p>
+
 </td>
 </tr>
 
 <tr>
 <td width="50%">
+
 <h3 align="center">✈ Sky Jet – Pygame 2D Runner Game</h3>
+
 <p align="center">
-<a href="https://github.com/UtkarshVanjari/Sky-Jet-2D-Game---python" target="_blank">
+<a href="https://github.com/UtkarshVanjari/Sky-Jet-2D-Game---python">
 <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
 </a>
 </p>
+
 <p>
-2D jet survival game built in Pygame with levels, shop system, and multiplayer mode.
+2D jet survival game with levels, shop system & multiplayer mode.
 </p>
+
 </td>
 </tr>
 
@@ -147,7 +163,7 @@ Python GUI-based weather app using live API integration.
 <img src="https://img.shields.io/badge/Contact%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
 <br><br>
-<a href="https://www.linkedin.com/in/utkarsh-vanjari-886621250/" target="_blank">
+<a href="https://www.linkedin.com/in/utkarsh-vanjari-886621250/">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 </div>
