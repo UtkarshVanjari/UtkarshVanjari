@@ -78,7 +78,7 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
     <td width="50%">
       <h3 align="center">🔐 ELK-Elastic-Project – Multiplayer Game</h3>
       <p align="center">
-        <a href="https://github.com/UtkarshVanjari/ELK-Elastic-Project." target="_blank">
+        <a href="https://github.com/UtkarshVanjari/ELK-Elastic-Project" target="_blank">
           <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
         </a>
       </p>
