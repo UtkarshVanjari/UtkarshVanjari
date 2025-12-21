@@ -74,6 +74,19 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 ## ⭐ Featured Projects  
 
 <table>
+   <tr>
+    <td width="50%">
+      <h3 align="center">🔐 ELK-Elastic-Project – Multiplayer Game</h3>
+      <p align="center">
+        <a href="https://github.com/UtkarshVanjari/ELK-Elastic-Project." target="_blank">
+          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+        </a>
+      </p>
+      <p>
+        This project demonstrates hands-on setup and secure integration of Elasticsearch and Kibana on a Linux environment.
+      </p>
+    </td>
+     
   <tr>
     <td width="50%">
       <h3 align="center">🔐 Quick-duel-Game – Multiplayer Game</h3>
