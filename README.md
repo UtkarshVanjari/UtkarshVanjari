@@ -21,52 +21,38 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 - 📝 Fun fact: In security, even silence tells a story — you just need to read the logs.  
 
 ---
-
-## 🛠 Tech Stack  
-
 ## 🛠 Tech Stack  
 
 <div align="center">
 
-  <!-- OS & Scripting -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="50" alt="Linux"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="50" alt="Bash"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50" alt="Python"/>
+  <!-- Core -->
+  <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 
-  <!-- Security Tools -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/debian/debian-original.svg" width="50" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/color/48/metasploit.png" width="50" alt="Metasploit"/>
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="50" alt="Nmap"/>
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="50" alt="BurpSuite"/>
+  <!-- Security -->
+  <img src="https://skillicons.dev/icons?i=debian" />
+  <img src="https://img.icons8.com/color/48/metasploit.png" style="margin:8px;" />
+  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="48" style="margin:8px;" />
+  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="48" style="margin:8px;" />
 
-  <br><br>
+  <!-- Cloud + DevOps -->
+  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins" />
 
-  <!-- Cloud & DevOps -->
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="50" alt="AWS"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="50" alt="Docker"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" width="50" alt="Kubernetes"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="50" alt="Terraform"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ansible/ansible-original.svg" width="50" alt="Ansible"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jenkins/jenkins-original.svg" width="50" alt="Jenkins"/>
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="50" alt="Argo CD"/>
-
-  <br><br>
+  <!-- GitOps -->
+  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48" style="margin:10px;" />
 
   <!-- Cloud Providers -->
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/azure/azure-original.svg" width="50" alt="Azure"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="50" alt="GCP"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="50" alt="Oracle Cloud"/>
+  <img src="https://skillicons.dev/icons?i=azure,gcp" />
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" style="margin:10px;" />
 
-  <br><br>
+  <br>
 
-  <!-- SIEM -->
-  <img src="https://img.shields.io/badge/Splunk-black?style=flat-square&logo=splunk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Snort-blue?style=flat-square"/>
-  <img src="https://img.shields.io/badge/Nessus-red?style=flat-square"/>
+  <!-- SIEM / Security -->
+  <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white" />
+  <img src="https://img.shields.io/badge/Snort-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Nessus-red?style=for-the-badge" />
 
 </div>
 
----
 
 
 ## ⭐ Featured Projects  
