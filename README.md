@@ -21,111 +21,126 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 - 📝 Fun fact: In security, even silence tells a story — you just need to read the logs.  
 
 ---
+
 ## 🛠 Tech Stack  
 
 <div align="center">
 
-  <!-- Core -->
   <img src="https://skillicons.dev/icons?i=linux,bash,python" />
 
-  <!-- Security -->
   <img src="https://skillicons.dev/icons?i=debian" />
   <img src="https://img.icons8.com/color/48/metasploit.png" style="margin:8px;" />
   <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="48" style="margin:8px;" />
   <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="48" style="margin:8px;" />
 
-  <!-- Cloud + DevOps -->
   <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins" />
 
-  <!-- GitOps -->
   <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48" style="margin:10px;" />
 
-  <!-- Cloud Providers -->
   <img src="https://skillicons.dev/icons?i=azure,gcp" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" style="margin:10px;" />
 
   <br>
 
-  <!-- SIEM / Security -->
   <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white" />
   <img src="https://img.shields.io/badge/Snort-blue?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Nessus-red?style=for-the-badge" />
 
 </div>
 
-
+---
 
 ## ⭐ Featured Projects  
 
 <table>
-   <tr>
-    <td width="50%">
-      <h3 align="center">🔐 ELK-Elastic-Project – Multiplayer Game</h3>
-      <p align="center">
-        <a href="https://github.com/UtkarshVanjari/ELK-Elastic-Project" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>
-        This project demonstrates hands-on setup and secure integration of Elasticsearch and Kibana on a Linux environment.
-      </p>
-    </td>
-     
-  <tr>
-    <td width="50%">
-      <h3 align="center">🔐 Quick-duel-Game – Multiplayer Game</h3>
-      <p align="center">
-        <a href="https://github.com/UtkarshVanjari/Quick-duel-Game-" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>
-        Developed a real-time *global multiplayer Rock Paper Scissors game* using Flask, Python, JavaScript, and Socket.IO.  
-        Features include live communication, room-based gameplay, chat system, and AI opponent.
-      </p>
-    </td>
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">☁ Harmony-App-Devops (EKS + ArgoCD)</h3>
-      <p align="center">
-        <a href="https://github.com/UtkarshVanjari/Harmony-App-Devops" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>
-        Deployed a scalable music streaming website using AWS EKS, Docker and NGINX Ingress. Configured TLS automation with cert-manager. Let’s Encrypt and set up CI/CD pipelines with GitHub Actions for continuous deployment. Utilized DuckDNS for dynamic DNS mapping and AWS NLB for secure load balancing.
-      </p>
-    </td>
-  </tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">🧠 AI Phishing Detection System</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/ai-phishing-detection" target="_blank">
+        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      Developed an AI-based phishing detection web application using Machine Learning and Flask.  
+      The system analyzes URLs, detects potential phishing attacks, provides a risk score, and explains the reasoning behind predictions.  
+      Includes a modern UI dashboard with visualization and dynamic cybersecurity awareness features.
+    </p>
+  </td>
+</tr>
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">📚 Weather-Forecasting-App</h3>
-      <p align="center">
-        <a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>
-        This project demonstrates how to build a desktop weather application with a GUI, using Python. It fetches live weather data from a web API and displays it in a user-friendly interface. Ideal for practising GUI development, API integration, and Python event-driven programming.
-      </p>
-    </td>
+<tr>
+  <td width="50%">
+    <h3 align="center">🔐 ELK-Elastic-Project – Multiplayer Game</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/ELK-Elastic-Project" target="_blank">
+        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      This project demonstrates hands-on setup and secure integration of Elasticsearch and Kibana on a Linux environment.
+    </p>
+  </td>
+</tr>
 
-  <tr>
-    <td width="50%">
-      <h3 align="center">✈ Sky Jet – Pygame 2D Runner Game</h3>
-      <p align="center">
-        <a href="https://github.com/UtkarshVanjari/Sky-Jet-2D-Game---python" target="_blank">
-          <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-        </a>
-      </p>
-      <p>
-        A 2D jet survival game with moving background, missiles, levels, countdown, shop system,  
-        and 2-player mode. Fully built in Pygame with clean UI and game logic.
-      </p>
-    </td>
-  </tr>
+<tr>
+  <td width="50%">
+    <h3 align="center">🔐 Quick-duel-Game – Multiplayer Game</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/Quick-duel-Game-" target="_blank">
+        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      Developed a real-time global multiplayer Rock Paper Scissors game using Flask, Python, JavaScript, and Socket.IO.  
+      Features include live communication, room-based gameplay, chat system, and AI opponent.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+    <h3 align="center">☁ Harmony-App-Devops (EKS + ArgoCD)</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/Harmony-App-Devops" target="_blank">
+        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      Deployed a scalable music streaming website using AWS EKS, Docker and NGINX Ingress with CI/CD pipelines and secure load balancing.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+    <h3 align="center">📚 Weather-Forecasting-App</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python" target="_blank">
+        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      Desktop weather application using Python with GUI and API integration for real-time weather updates.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+    <h3 align="center">✈ Sky Jet – Pygame 2D Runner Game</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/Sky-Jet-2D-Game---python" target="_blank">
+        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      A 2D jet survival game with moving background, obstacles, levels, shop system, and 2-player mode.
+    </p>
+  </td>
+</tr>
+
 </table>
 
 ---
@@ -161,6 +176,5 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 
 <div align="center">
   <img src="https://github.com/kaustubh-cyber/kaustubh-cyber/blob/main/assets/security-animation.gif" width="500" alt="Cybersecurity Animation">
-  <p><i> The strongest defense begins with awareness. </i></p>
+  <p><i> The strongest defense begins with awareness. </i></p>
 </div>
-
