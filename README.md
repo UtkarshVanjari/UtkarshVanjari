@@ -1,142 +1,230 @@
-# 👋 Hello, I'm Utkarsh Vanjari  
+# 👋 Hello, I'm Utkarsh Vanjari
 
-## Cybersecurity Intern | Cloud Technologies & Information Security | Future Security Architect
+## Cybersecurity Intern | Cloud Security Enthusiast | Future Security Architect
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-vanjari&color=blue&style=flat-square)
 
 ---
 
-### 🚀 Professional Summary  
+### 🚀 Professional Summary
 
-Hi, I'm *Utkarsh Vanjari, a passionate **Cybersecurity & Cloud Enthusiast* with hands-on experience in real-world cyber investigations through my internship at *Maharashtra Cyber Cell Headquarters, Ghansoli*.
+Hi, I'm **Utkarsh Vanjari**, a passionate **Cybersecurity, Cloud Security, and DevSecOps Enthusiast** with hands-on experience in real-world cyber investigations through my internship at **Maharashtra Cyber Cell Headquarters, Ghansoli**.
 
-I specialize in *Cloud Technologies, Information Security, Cyber Threat Analysis, and Secure Architectures*.  
-Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Detection, and **Secure DevOps Pipelines*.
+I specialize in **Cloud Technologies, Information Security, Threat Analysis, Web Application Security, and Secure Architectures**.
 
-- 🎯 Aspiring *Security Analyst / SOC Analyst / Cloud Security Engineer*
-- ☁ Strong foundation in *AWS, Cloud Architecture, EKS, CI/CD, and DevSecOps*
-- 🛡 Experience with *Threat Analysis, Privilege Audits, Digital Forensics*
-- 📌 Worked on *Secure Deployment Pipeline using EKS, Jenkins, SonarQube, Trivy, ArgoCD*
-- 🔍 Ask me about *Cloud Security, Ethical Hacking, CI/CD, SOC tasks, or Security Automation*
-- 📝 Fun fact: In security, even silence tells a story — you just need to read the logs.  
+Currently expanding my expertise in:
+
+- ☁ Cloud Security & Architecture
+- 🛡 Web Application Security
+- 🔍 Threat Detection & Incident Response
+- 🤖 AI + Cybersecurity
+- 🚀 DevSecOps & Secure CI/CD Pipelines
+- 📊 Security Monitoring & SIEM Technologies
 
 ---
 
-## 🛠 Tech Stack  
+### 🎯 Career Goals
+
+- Security Analyst
+- SOC Analyst
+- Cloud Security Engineer
+- Application Security Engineer
+- Security Architect
+
+---
+
+### 💼 Professional Experience
+
+#### Maharashtra Cyber Cell Headquarters
+
+**Cyber Security Intern**
+
+Worked on:
+
+- Cyber Threat Analysis
+- Privilege Audits
+- Digital Investigations
+- Security Monitoring
+- Incident Analysis
+- Security Documentation
+
+---
+
+### 📚 Publications & Open Source Contributions
+
+#### 📘 Burp Suite Professional Handbook
+
+Author of a comprehensive **Burp Suite Professional Handbook** covering:
+
+- Web Application Security Testing
+- OWASP Top 10
+- Authentication Testing
+- Session Management
+- IDOR
+- XSS
+- SQL Injection
+- CSRF
+- SSRF
+- API Security
+- Bug Bounty Methodology
+- Vulnerability Reporting
+- Interview Preparation
+
+Designed as a practical learning resource for:
+
+- Cybersecurity Students
+- VAPT Learners
+- Bug Bounty Hunters
+- Aspiring Penetration Testers
+
+Repository:
+
+https://github.com/UtkarshVanjari/Burp-Suite-Handbook
+
+---
+
+### 🔥 Highlights
+
+- 🏆 Academic Topper Award Recipient
+- ☁ AWS Certified
+- 🛡 Cyber Security Intern @ Maharashtra Cyber
+- 📘 Author of Burp Suite Professional Handbook
+- 🚀 Builder of Security, Cloud & AI Projects
+- 🔍 Passionate about Web Security & Threat Detection
+
+---
+## 🛠 Tech Stack
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=linux,bash,python" />
+<img src="https://skillicons.dev/icons?i=linux,bash,python" />
 
-  <img src="https://skillicons.dev/icons?i=debian" />
-  <img src="https://img.icons8.com/color/48/metasploit.png" style="margin:8px;" />
-  <img src="https://www.kali.org/tools/nmap/images/nmap-logo.svg" width="48" style="margin:8px;" />
-  <img src="https://www.kali.org/tools/burpsuite/images/burpsuite-logo.svg" width="48" style="margin:8px;" />
+<img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins" />
 
-  <img src="https://skillicons.dev/icons?i=aws,docker,kubernetes,terraform,ansible,jenkins" />
+<img src="https://skillicons.dev/icons?i=azure,gcp" />
 
-  <img src="https://argo-cd.readthedocs.io/en/stable/assets/logo.png" width="48" style="margin:10px;" />
-
-  <img src="https://skillicons.dev/icons?i=azure,gcp" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" width="48" style="margin:10px;" />
-
-  <br>
-
-  <img src="https://img.shields.io/badge/Splunk-000?style=for-the-badge&logo=splunk&logoColor=white" />
-  <img src="https://img.shields.io/badge/Snort-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Nessus-red?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=git,github,vscode" />
 
 </div>
 
 ---
 
-## ⭐ Featured Projects  
+## 🔐 Cyber Security Toolkit
+
+<div align="center">
+
+| Security Domain | Tools & Technologies |
+|----------------|----------------------|
+| Network Security | Nmap, Wireshark |
+| Web Security | Burp Suite, OWASP Methodologies |
+| Vulnerability Assessment | Nessus, OpenVAS |
+| Penetration Testing | Metasploit Framework |
+| Monitoring & SIEM | ELK Stack, Splunk |
+| Cloud Security | AWS Security Services |
+| DevSecOps | Jenkins, SonarQube, Trivy, ArgoCD |
+
+</div>
+
+---
+
+# ⭐ Featured Projects
 
 <table>
 
 <tr>
   <td width="50%">
-    <h3 align="center">🧠 AI Phishing Detection System</h3>
+    <h3 align="center">📘 Burp Suite Professional Handbook</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/Burp-Suite-Handbook" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      A comprehensive Burp Suite Professional Handbook covering Web Application Security Testing, OWASP Top 10, Authentication Testing, Session Management, IDOR, XSS, SQL Injection, SSRF, API Security, Bug Bounty Methodology, Vulnerability Reporting, Interview Preparation, and Practical Testing Workflows.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+    <h3 align="center">🧠 AI-Based Phishing Detection System</h3>
     <p align="center">
       <a href="https://github.com/UtkarshVanjari/phishing-detection-web-application" target="_blank">
-        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      Developed an AI-based phishing detection web application using Machine Learning and Flask.  
-      The system analyzes URLs, detects potential phishing attacks, provides a risk score, and explains the reasoning behind predictions.  
-      Includes a modern UI dashboard with visualization and dynamic cybersecurity awareness features.
+      Machine Learning-powered phishing detection system that analyzes URLs, calculates risk scores, provides explainable AI insights, and helps users identify potentially malicious websites.
     </p>
   </td>
 </tr>
 
 <tr>
   <td width="50%">
-    <h3 align="center">🔐 ELK-Elastic-Project</h3>
+    <h3 align="center">🔐 ELK Stack Security Project</h3>
     <p align="center">
       <a href="https://github.com/UtkarshVanjari/ELK-Elastic-Project" target="_blank">
-        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      This project demonstrates hands-on setup and secure integration of Elasticsearch and Kibana on a Linux environment.
+      Secure deployment, configuration, integration, and troubleshooting of Elasticsearch and Kibana with authentication, encryption, monitoring, and operational validation.
     </p>
   </td>
 </tr>
 
 <tr>
   <td width="50%">
-    <h3 align="center">🔐 Quick-duel-Game – Multiplayer Game</h3>
-    <p align="center">
-      <a href="https://github.com/UtkarshVanjari/Quick-duel-Game-" target="_blank">
-        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
-      </a>
-    </p>
-    <p>
-      Developed a real-time global multiplayer Rock Paper Scissors game using Flask, Python, JavaScript, and Socket.IO.  
-      Features include live communication, room-based gameplay, chat system, and AI opponent.
-    </p>
-  </td>
-</tr>
-
-<tr>
-  <td width="50%">
-    <h3 align="center">☁ Harmony-App-Devops (EKS + ArgoCD)</h3>
+    <h3 align="center">☁ Harmony App DevOps Platform</h3>
     <p align="center">
       <a href="https://github.com/UtkarshVanjari/Harmony-App-Devops" target="_blank">
-        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      Deployed a scalable music streaming website using AWS EKS, Docker and NGINX Ingress with CI/CD pipelines and secure load balancing.
+      End-to-end DevOps project implementing CI/CD pipelines, Kubernetes deployment, Docker containerization, NGINX Ingress, AWS EKS, and GitOps using ArgoCD.
     </p>
   </td>
 </tr>
 
 <tr>
   <td width="50%">
-    <h3 align="center">📚 Weather-Forecasting-App</h3>
+    <h3 align="center">🎮 Quick Duel Multiplayer Game</h3>
     <p align="center">
-      <a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python" target="_blank">
-        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+      <a href="https://github.com/UtkarshVanjari/Quick-duel-Game-" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      Desktop weather application using Python with GUI and API integration for real-time weather updates.
+      Real-time multiplayer Rock-Paper-Scissors game developed using Flask and Socket.IO featuring live rooms, chat system, matchmaking, score tracking, and interactive gameplay.
     </p>
   </td>
 </tr>
 
 <tr>
   <td width="50%">
-    <h3 align="center">✈ Sky Jet – Pygame 2D Runner Game</h3>
+    <h3 align="center">✈ Sky Jet – 2D Arcade Shooter</h3>
     <p align="center">
       <a href="https://github.com/UtkarshVanjari/Sky-Jet-2D-Game---python" target="_blank">
-        <img src="https://img.shields.io/badge/Code-View-212121?style=for-the-badge&logo=github">
+        <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      A 2D jet survival game with moving background, obstacles, levels, shop system, and 2-player mode.
+      Feature-rich Pygame-based arcade shooter featuring multiplayer mode, moving backgrounds, unlockable aircraft, shop system, score tracking, levels, and survival gameplay.
+    </p>
+  </td>
+</tr>
+
+<tr>
+  <td width="50%">
+    <h3 align="center">🌦 Weather Forecasting Application</h3>
+    <p align="center">
+      <a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python" target="_blank">
+        <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
+      </a>
+    </p>
+    <p>
+      Python GUI application that retrieves and displays real-time weather information using API integration, user-friendly interfaces, and dynamic data processing.
     </p>
   </td>
 </tr>
@@ -144,37 +232,3 @@ Currently building skills in *AI + Cybersecurity, **Cloud Security, **Threat Det
 </table>
 
 ---
-
-## 🔭 Current Focus  
-
-- Learning *Threat Detection, SIEM & Incident Response*  
-- Mastering *AWS Security & Cloud Monitoring*  
-- Building *AI + Cybersecurity automation tools*  
-- Improving skills for *SOC Analyst & Cloud Security Engineer roles*
-
----
-
-## 🔗 Let's Connect  
-
-<div align="center">
-  <a href="mailto:vanjariutkarsh26work@gmail.com">
-    <img src="https://img.shields.io/badge/Contact%20Me-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <br><br>
-  <a href="https://www.linkedin.com/in/utkarsh-vanjari-886621250/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Dev Quote">
-</div>
-
----
-
-<div align="center">
-  <img src="https://github.com/kaustubh-cyber/kaustubh-cyber/blob/main/assets/security-animation.gif" width="500" alt="Cybersecurity Animation">
-  <p><i> The strongest defense begins with awareness. </i></p>
-</div>
