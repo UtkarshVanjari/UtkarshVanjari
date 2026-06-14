@@ -55,7 +55,6 @@ Worked on:
 - 🏆 Academic Topper Award Recipient
 - ☁ AWS Certified
 - 🛡 Cyber Security Intern @ Maharashtra Cyber
-- 📘 Creator of the Burp Suite Professional Handbook
 - 🚀 Builder of Security, Cloud & AI Projects
 - 🔍 Passionate about Web Security & Threat Detection
 
@@ -121,7 +120,7 @@ Worked on:
       </a>
     </p>
     <p>
-      Machine Learning-powered phishing detection platform capable of analyzing suspicious URLs, generating risk scores, identifying phishing indicators, and providing explainable AI insights to improve cyber awareness and online safety.
+      Machine Learning-powered phishing detection platform capable of analyzing suspicious URLs, generating risk scores, identifying phishing indicators, and providing explainable AI insights.
     </p>
   </td>
 </tr>
@@ -135,7 +134,7 @@ Worked on:
       </a>
     </p>
     <p>
-      Enterprise-grade ELK Stack deployment project demonstrating secure Elasticsearch and Kibana installation, TLS implementation, authentication configuration, service monitoring, troubleshooting, and operational validation.
+      Enterprise-grade ELK Stack deployment project demonstrating secure Elasticsearch and Kibana installation, TLS implementation, authentication configuration, monitoring, and operational validation.
     </p>
   </td>
 </tr>
@@ -149,7 +148,7 @@ Worked on:
       </a>
     </p>
     <p>
-      Complete DevOps implementation using AWS EKS, Docker, Jenkins, SonarQube, Trivy, ArgoCD, and Kubernetes to automate deployment, security scanning, container orchestration, and GitOps workflows.
+      Complete DevOps implementation using AWS EKS, Docker, Jenkins, SonarQube, Trivy, ArgoCD, and Kubernetes with automated CI/CD and GitOps workflows.
     </p>
   </td>
 </tr>
@@ -163,7 +162,7 @@ Worked on:
       </a>
     </p>
     <p>
-      Real-time multiplayer Rock-Paper-Scissors web application built using Flask and Socket.IO featuring room-based matchmaking, live chat, score tracking, animations, sound effects, and interactive gameplay.
+      Real-time multiplayer Rock-Paper-Scissors game built using Flask and Socket.IO featuring live chat, room management, matchmaking, score tracking, animations, and sound effects.
     </p>
   </td>
 </tr>
@@ -177,7 +176,7 @@ Worked on:
       </a>
     </p>
     <p>
-      Advanced Pygame-based arcade shooter featuring multiplayer gameplay, dynamic backgrounds, level progression, shop system, unlockable aircraft, score tracking, and survival-based mechanics.
+      Advanced Pygame arcade shooter featuring multiplayer gameplay, moving backgrounds, unlockable aircraft, level progression, shop system, and survival mechanics.
     </p>
   </td>
 </tr>
@@ -191,7 +190,7 @@ Worked on:
       </a>
     </p>
     <p>
-      Python-based desktop weather application with GUI support and API integration that delivers real-time weather forecasts, environmental conditions, and location-based weather insights.
+      Python-based desktop weather application with GUI support and API integration providing real-time weather forecasts and environmental insights.
     </p>
   </td>
 </tr>
@@ -205,8 +204,41 @@ Worked on:
 - ☁ AWS Certified Solutions Architect Associate (SAA-C03)
 - 🛡 Cyber Security Intern @ Maharashtra Cyber
 - 🏆 Academic Topper Award Recipient
-- 📘 Creator of the Burp Suite Professional Handbook
 - 🚀 Multiple Cloud, Security & DevOps Projects
-- 🎯 Actively Building AI + Cyber Security Solutions
 
 ---
+
+## 🔭 Current Focus
+
+- 🛡 Threat Detection & Incident Response
+- ☁ AWS Security & Cloud Monitoring
+- 📊 SIEM & Log Analysis
+- 🤖 AI + Cybersecurity Solutions
+- 🚀 DevSecOps & Secure CI/CD
+- 🔐 Web Application Security Testing
+
+---
+
+## 🔗 Let's Connect
+
+<div align="center">
+
+<a href="mailto:vanjariutkarsh26work@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+</a>
+
+<a href="https://www.linkedin.com/in/utkarsh-vanjari-886621250/" target="_blank">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+</div>
+
+---
+
+<div align="center">
+
+### 🚀 Learn • Build • Secure
+
+*"The strongest defense begins with awareness."*
+
+</div>
