@@ -50,49 +50,17 @@ Worked on:
 
 ---
 
-### 📚 Publications & Open Source Contributions
-
-#### 📘 Burp Suite Professional Handbook
-
-Author of a comprehensive **Burp Suite Professional Handbook** covering:
-
-- Web Application Security Testing
-- OWASP Top 10
-- Authentication Testing
-- Session Management
-- IDOR
-- XSS
-- SQL Injection
-- CSRF
-- SSRF
-- API Security
-- Bug Bounty Methodology
-- Vulnerability Reporting
-- Interview Preparation
-
-Designed as a practical learning resource for:
-
-- Cybersecurity Students
-- VAPT Learners
-- Bug Bounty Hunters
-- Aspiring Penetration Testers
-
-Repository:
-
-https://github.com/UtkarshVanjari/Burp-Suite-Handbook
-
----
-
 ### 🔥 Highlights
 
 - 🏆 Academic Topper Award Recipient
 - ☁ AWS Certified
 - 🛡 Cyber Security Intern @ Maharashtra Cyber
-- 📘 Author of Burp Suite Professional Handbook
+- 📘 Creator of the Burp Suite Professional Handbook
 - 🚀 Builder of Security, Cloud & AI Projects
 - 🔍 Passionate about Web Security & Threat Detection
 
 ---
+
 ## 🛠 Tech Stack
 
 <div align="center">
@@ -126,7 +94,6 @@ https://github.com/UtkarshVanjari/Burp-Suite-Handbook
 </div>
 
 ---
-
 # ⭐ Featured Projects
 
 <table>
@@ -154,21 +121,21 @@ https://github.com/UtkarshVanjari/Burp-Suite-Handbook
       </a>
     </p>
     <p>
-      Machine Learning-powered phishing detection system that analyzes URLs, calculates risk scores, provides explainable AI insights, and helps users identify potentially malicious websites.
+      Machine Learning-powered phishing detection platform capable of analyzing suspicious URLs, generating risk scores, identifying phishing indicators, and providing explainable AI insights to improve cyber awareness and online safety.
     </p>
   </td>
 </tr>
 
 <tr>
   <td width="50%">
-    <h3 align="center">🔐 ELK Stack Security Project</h3>
+    <h3 align="center">🔐 Elastic Stack Security Project</h3>
     <p align="center">
       <a href="https://github.com/UtkarshVanjari/ELK-Elastic-Project" target="_blank">
         <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      Secure deployment, configuration, integration, and troubleshooting of Elasticsearch and Kibana with authentication, encryption, monitoring, and operational validation.
+      Enterprise-grade ELK Stack deployment project demonstrating secure Elasticsearch and Kibana installation, TLS implementation, authentication configuration, service monitoring, troubleshooting, and operational validation.
     </p>
   </td>
 </tr>
@@ -182,7 +149,7 @@ https://github.com/UtkarshVanjari/Burp-Suite-Handbook
       </a>
     </p>
     <p>
-      End-to-end DevOps project implementing CI/CD pipelines, Kubernetes deployment, Docker containerization, NGINX Ingress, AWS EKS, and GitOps using ArgoCD.
+      Complete DevOps implementation using AWS EKS, Docker, Jenkins, SonarQube, Trivy, ArgoCD, and Kubernetes to automate deployment, security scanning, container orchestration, and GitOps workflows.
     </p>
   </td>
 </tr>
@@ -196,39 +163,50 @@ https://github.com/UtkarshVanjari/Burp-Suite-Handbook
       </a>
     </p>
     <p>
-      Real-time multiplayer Rock-Paper-Scissors game developed using Flask and Socket.IO featuring live rooms, chat system, matchmaking, score tracking, and interactive gameplay.
+      Real-time multiplayer Rock-Paper-Scissors web application built using Flask and Socket.IO featuring room-based matchmaking, live chat, score tracking, animations, sound effects, and interactive gameplay.
     </p>
   </td>
 </tr>
 
 <tr>
   <td width="50%">
-    <h3 align="center">✈ Sky Jet – 2D Arcade Shooter</h3>
+    <h3 align="center">✈️ Sky Jet – 2D Arcade Shooter</h3>
     <p align="center">
       <a href="https://github.com/UtkarshVanjari/Sky-Jet-2D-Game---python" target="_blank">
         <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      Feature-rich Pygame-based arcade shooter featuring multiplayer mode, moving backgrounds, unlockable aircraft, shop system, score tracking, levels, and survival gameplay.
+      Advanced Pygame-based arcade shooter featuring multiplayer gameplay, dynamic backgrounds, level progression, shop system, unlockable aircraft, score tracking, and survival-based mechanics.
     </p>
   </td>
 </tr>
 
 <tr>
   <td width="50%">
-    <h3 align="center">🌦 Weather Forecasting Application</h3>
+    <h3 align="center">🌦️ Weather Forecasting Application</h3>
     <p align="center">
       <a href="https://github.com/UtkarshVanjari/Weather-Forecasting-App--python" target="_blank">
         <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      Python GUI application that retrieves and displays real-time weather information using API integration, user-friendly interfaces, and dynamic data processing.
+      Python-based desktop weather application with GUI support and API integration that delivers real-time weather forecasts, environmental conditions, and location-based weather insights.
     </p>
   </td>
 </tr>
 
 </table>
+
+---
+
+## 🏆 Certifications & Achievements
+
+- ☁ AWS Certified Solutions Architect Associate (SAA-C03)
+- 🛡 Cyber Security Intern @ Maharashtra Cyber
+- 🏆 Academic Topper Award Recipient
+- 📘 Creator of the Burp Suite Professional Handbook
+- 🚀 Multiple Cloud, Security & DevOps Projects
+- 🎯 Actively Building AI + Cyber Security Solutions
 
 ---
