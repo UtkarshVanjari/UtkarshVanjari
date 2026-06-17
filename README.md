@@ -4,12 +4,6 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-vanjari&color=blue&style=flat-square)
 
-🌐 **Portfolio Website:**  
-https://utkarsh-vanjari-mgtjua1.gamma.site/
-
-📂 **Portfolio Repository:**  
-https://github.com/UtkarshVanjari/utkarsh-portfolio
-
 ---
 
 ### 🚀 Professional Summary
@@ -223,13 +217,12 @@ Worked on:
 
 ## 🏆 Certifications & Achievements
 
-- ☁ AWS Certified Solutions Architect Associate (SAA-C03)
-- 🛡 Cyber Security Intern @ Maharashtra Cyber Headquarters
 - 🏆 University Topper Award Recipient
-- 🎓 MCA (Master of Computer Applications)
-- 🚀 Multiple Cloud, Security & DevSecOps Projects
-- 📜 Zero Trust Cloud Security Virtual Internship
+- 🛡 Cyber Security Intern @ Maharashtra Cyber Headquarters
+- ☁ Zero Trust Cloud Security Virtual Internship
 - 📜 Fundamentals of Cybersecurity Certification
+- 🤖 AI & Machine Learning Virtual Internship
+- 🚀 Multiple Cloud, Security & DevSecOps Projects
 
 ---
 
@@ -248,9 +241,9 @@ Worked on:
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshVanjari&show_icons=true)
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=UtkarshVanjari&show_icons=true&theme=default"/>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshVanjari&layout=compact)
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshVanjari&layout=compact&theme=default"/>
 
 </div>
 
@@ -270,10 +263,6 @@ Worked on:
 
 <a href="https://utkarsh-vanjari-mgtjua1.gamma.site/" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
-</a>
-
-<a href="https://github.com/UtkarshVanjari/utkarsh-portfolio" target="_blank">
-<img src="https://img.shields.io/badge/Portfolio%20Repo-212121?style=for-the-badge&logo=github">
 </a>
 
 </div>
