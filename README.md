@@ -4,6 +4,12 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=utkarsh-vanjari&color=blue&style=flat-square)
 
+🌐 **Portfolio Website:**  
+https://utkarsh-vanjari-mgtjua1.gamma.site/
+
+📂 **Portfolio Repository:**  
+https://github.com/UtkarshVanjari/utkarsh-portfolio
+
 ---
 
 ### 🚀 Professional Summary
@@ -20,6 +26,18 @@ Currently expanding my expertise in:
 - 🤖 AI + Cybersecurity
 - 🚀 DevSecOps & Secure CI/CD Pipelines
 - 📊 Security Monitoring & SIEM Technologies
+
+---
+
+### 🌐 Portfolio
+
+Explore my complete professional portfolio featuring cybersecurity projects, cloud security implementations, certifications, achievements, technical skills, internship experience, and academic excellence.
+
+🔗 Portfolio Website:
+https://utkarsh-vanjari-mgtjua1.gamma.site/
+
+📂 Portfolio Repository:
+https://github.com/UtkarshVanjari/utkarsh-portfolio
 
 ---
 
@@ -93,20 +111,24 @@ Worked on:
 </div>
 
 ---
+
 # ⭐ Featured Projects
 
 <table>
 
 <tr>
   <td width="50%">
-    <h3 align="center">📘 Burp Suite Professional Handbook</h3>
+    <h3 align="center">🌐 Personal Portfolio Website</h3>
     <p align="center">
-      <a href="https://github.com/UtkarshVanjari/Burp-Suite-Handbook" target="_blank">
+      <a href="https://utkarsh-vanjari-mgtjua1.gamma.site/" target="_blank">
+        <img src="https://img.shields.io/badge/Visit%20Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+      </a>
+      <a href="https://github.com/UtkarshVanjari/utkarsh-portfolio" target="_blank">
         <img src="https://img.shields.io/badge/View%20Repository-212121?style=for-the-badge&logo=github">
       </a>
     </p>
     <p>
-      A comprehensive Burp Suite Professional Handbook covering Web Application Security Testing, OWASP Top 10, Authentication Testing, Session Management, IDOR, XSS, SQL Injection, SSRF, API Security, Bug Bounty Methodology, Vulnerability Reporting, Interview Preparation, and Practical Testing Workflows.
+      A professional portfolio showcasing cybersecurity projects, cloud security implementations, certifications, achievements, internship experience, technical expertise, and career journey.
     </p>
   </td>
 </tr>
@@ -202,9 +224,12 @@ Worked on:
 ## 🏆 Certifications & Achievements
 
 - ☁ AWS Certified Solutions Architect Associate (SAA-C03)
-- 🛡 Cyber Security Intern @ Maharashtra Cyber
-- 🏆 Academic Topper Award Recipient
-- 🚀 Multiple Cloud, Security & DevOps Projects
+- 🛡 Cyber Security Intern @ Maharashtra Cyber Headquarters
+- 🏆 University Topper Award Recipient
+- 🎓 MCA (Master of Computer Applications)
+- 🚀 Multiple Cloud, Security & DevSecOps Projects
+- 📜 Zero Trust Cloud Security Virtual Internship
+- 📜 Fundamentals of Cybersecurity Certification
 
 ---
 
@@ -219,6 +244,18 @@ Worked on:
 
 ---
 
+## 📈 GitHub Statistics
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=UtkarshVanjari&show_icons=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=UtkarshVanjari&layout=compact)
+
+</div>
+
+---
+
 ## 🔗 Let's Connect
 
 <div align="center">
@@ -229,6 +266,14 @@ Worked on:
 
 <a href="https://www.linkedin.com/in/utkarsh-vanjari-886621250/" target="_blank">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
+
+<a href="https://utkarsh-vanjari-mgtjua1.gamma.site/" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio-0A66C2?style=for-the-badge&logo=google-chrome&logoColor=white">
+</a>
+
+<a href="https://github.com/UtkarshVanjari/utkarsh-portfolio" target="_blank">
+<img src="https://img.shields.io/badge/Portfolio%20Repo-212121?style=for-the-badge&logo=github">
 </a>
 
 </div>
